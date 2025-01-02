@@ -1,3 +1,11 @@
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # YouTube Clone using React and RapidAPI
 
 This project is a **YouTube clone** built using **React.js** and **RapidAPI**, designed to replicate core YouTube features such as video search, playback, and viewing video details. The app fetches data dynamically from the **RapidAPI YouTube API**, eliminating the need for CRUD operations and focusing purely on content retrieval and presentation.
